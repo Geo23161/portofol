@@ -3,7 +3,7 @@ import { Project } from '../types/Project';
 export const projects: Project[] = [
   {
     id: 1,
-    title: "Zawadi",
+    title: "Zawadi (seulement pour mobile)",
     description: "Plateforme à but non lucratif permettant aux étudiants de commander des produits de première nécessité.",
     images: [
       {
@@ -17,7 +17,7 @@ export const projects: Project[] = [
   },
   {
     id: 2,
-    title: "Celibapps",
+    title: "Celibapps (seulement pour mobile)",
     description: "Application de rencontre",
     images: [
       {
@@ -40,7 +40,7 @@ export const projects: Project[] = [
   },
   {
     id: 3,
-    title: "Studeo",
+    title: "Studeo (seulement pour mobile)",
     description: "Super App des etudiants",
     images: [
       {
