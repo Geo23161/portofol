@@ -8,4 +8,5 @@ export interface Project {
     device: 'mobile' | 'desktop' | 'tablet';
   }[];
   demoUrl: string;
+  github?: string;
 }

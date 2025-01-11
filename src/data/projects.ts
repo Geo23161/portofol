@@ -69,7 +69,7 @@ export const projects: Project[] = [
   {
     id: 3,
     title: "SchoolConnect",
-    description: "Logiciel de gestion scolaire basé sur l'intelligence artificielle. Construit avec Electronjs et Angular.",
+    description: "Logiciel de gestion scolaire basé sur l'intelligence artificielle. Construit avec Electronjs et VueJs.",
     images: [
       {
         url: "https://res.cloudinary.com/achat-en-gros/image/upload/v1735679565/Capture_d_%C3%A9cran_du_2024-12-31_22-08-06_nq6zv3.png",
